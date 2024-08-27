@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
         "appbar",
+        "asstets",
         "extention",
+        "fullscreen",
         "screenutil"
-    ]
+    ],
+    "cmake.sourceDirectory": "E:/Projects/Flutter Projects/doctor/linux/flutter"
 }
